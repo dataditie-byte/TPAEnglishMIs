@@ -1,0 +1,9 @@
+{
+  "name": "TKA English Sanggar Mam Is",
+  "short_name": "TKA English",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f8fc",
+  "theme_color": "#173b63",
+  "icons": []
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120">
+<rect width="420" height="120" rx="22" fill="#ffffff"/>
+<path d="M28 58 L66 24 L104 58 V95 H28 Z" fill="none" stroke="#173b63" stroke-width="8" stroke-linejoin="round"/>
+<path d="M118 36 Q154 26 188 48 V92 Q154 70 118 82 Z" fill="#ef4444"/>
+<path d="M188 48 Q222 26 258 36 V82 Q222 70 188 92 Z" fill="#f59e0b"/>
+<circle cx="188" cy="36" r="9" fill="#14b8a6"/>
+<path d="M172 54 Q188 68 204 54" fill="none" stroke="#14b8a6" stroke-width="9" stroke-linecap="round"/>
+<text x="278" y="52" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#ef4444">Sanggar</text>
+<text x="278" y="80" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#f59e0b">Mam Is</text>
+<text x="278" y="100" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#173b63">BELAJAR • BERPIKIR • BERPRESTASI</text>
+</svg>
